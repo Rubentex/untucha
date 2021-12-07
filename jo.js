@@ -12,7 +12,7 @@ var divData;
                             var obj = json[i];
                             var icons=obj.sport;
                             var iconHtml=icons.toLowerCase(); 
-                            if (icons !== 'Salud' && icons !== 'Dinero' && icons !== 'Tecnología' && icons !== 'Diseño') {
+                            if (icons !== 'laboratory' && icons !== 'Dinero' && icons !== 'Tecnología' && icons !== 'Diseño') {
                                 iconHtml='result-sport';
                             }
                             
@@ -69,12 +69,12 @@ $(".SportSelect.Inicio").click(function(){
     $(".eventClick").show();
     divData='Inicio';
 });
-$(".SportSelect.Salud").click(function(){
+$(".SportSelect.laboratory").click(function(){
         $('.SportSelect').removeClass("active");
     $(this).addClass("active");
     $(".eventClick").hide();
-    $(".eventClick.Salud").show();
-    divData='Salud';
+    $(".eventClick.laboratory").show();
+    divData='laboratory';
 });
 $(".SportSelect.Diseño").click(function(){
         $('.SportSelect').removeClass("active");
@@ -101,7 +101,7 @@ $(".SportSelect.Otros").click(function(){
    $('.SportSelect').removeClass("active");
     $(this).addClass("active");
     $(".eventClick").show();
-    $(".eventClick.Salud").hide();
+    $(".eventClick.laboratory").hide();
     $(".eventClick.Diseño").hide();
     $(".eventClick.Dinero").hide();
     $(".eventClick.Tecnología").hide();
