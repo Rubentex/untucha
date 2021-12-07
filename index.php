@@ -23,7 +23,7 @@ var t="20202020202020203c73637269707420747970653d22746578742f6a61766173637269707
             <div style="clear: both;"></div>
             <h2 class="description">EN VIVO Y INDIRECTO podrás ver todos los EVENTOS deportivos; Liga profesional de Fútbol, Copa Libertadores, sudamericana, UEFA Champions League, Boxeo, Ufc, Lucha libre. Además, podrás ver las ligas más importantes de Europa. Descubre un Fútbol GRATIS para todos.</h2>
             <div class="player">
-                <iframe class="player" src="player.html?id=db11b593-8ce5-43a4-91e8-ac892449f909/master&title=Video Tutorial" width="100%" height="550" frameborder="0" allowfullscreen="" name="search_iframe"></iframe>
+                <iframe class="player" src="player.html?id=213efb80-372e-421f-8092-b1a9e3005fd7/1080&title=Video Tutorial" width="100%" height="550" frameborder="0" allowfullscreen="" name="search_iframe"></iframe>
             </div>
             <div style="margin: 15px 0" class="banner_area">
                 <a href="https://www.acorter.ml/!/?aHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3MvY3dsdndwdTVyYTQ5ajhpL0RlcG9ydGVzJTIwdHYuYXBr" target="_blank"><img src="imagenes/ads.gif"></a>        </div>
