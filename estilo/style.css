@@ -1,0 +1,275 @@
+	body {
+			background: #000;
+			text-align: center;
+			margin: 0 auto;
+            font-family: 'Cuprum', sans-serif;
+
+		}
+ .seek-time {
+    margin-bottom:50px;
+ }
+ 
+	.player {
+		margin: 0 auto;
+		width: 1000px;
+		height: 556px;
+	}
+
+ .banner_area {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+}
+.container {
+    max-width: 1000px;
+        margin-right: auto;
+    margin-left: auto;
+        z-index: 5;
+        position: relative;
+}
+.banner_area img {
+    width: 100%;
+    height: auto;
+}
+.description {display: none}
+#header {
+	height: 50px;
+}
+.logo {
+	float: left;
+}
+.logo img {
+	    margin-top: 10px;
+    height: 40px;
+}
+ 
+    .reklamImg {
+    position: relative;
+    z-index: 9999;
+    width: 100%;
+    display: block
+}
+.leftRight {
+    padding: 0;
+       width: 200px;
+}
+
+
+#centerDiv {
+    float: left;
+     width: 100%;
+}
+        #events { 
+            border-radius: 5px;
+            background-color: #383C47;
+            margin: auto;
+            margin-left: 10px;
+            margin-bottom: 25px;
+        }
+
+    #date {
+            float: right;
+            padding: 5px 8px;
+            color: #FFF;
+        }
+        #eventlist {
+    margin-top: 0; 
+    border-radius: 5px;
+    width: 540px;
+    width: 100%;
+    overflow: auto;
+    color: #272B34;
+        }
+         .event {
+            padding: 5px 15px;
+            overflow:auto;
+            background-color: white;
+        }
+
+        .icon {
+            float: left;
+            margin-right: 5px;
+            margin-left: 5px;
+
+        }
+
+        .live {
+            float: left;
+            width: 25px;
+
+        }
+
+        .live span {
+            color: #ff4005;
+            font-size: 16px;
+        }
+
+        .league {
+            float: right;
+
+        }
+
+        .teams {
+            float: left;
+            margin-left: 10px;
+
+        }
+
+        .odd {
+            background-color: #383C47;
+            color: #fff;
+        }
+
+        .even {
+            color: #383C47;
+        }
+
+        .block:hover {
+            background-color: #f2f2f2;
+        }
+
+        .blockodd:hover {
+            background-color: #535763;
+        }
+
+        .fas {
+            font-size: 14px;
+        }
+                .sports {
+            float: left;
+        }
+
+        #clear {
+            clear:both;
+        }
+
+        .sports a:hover {
+            text-decoration: none;
+            background-color: #212227;
+        }
+        .active { 
+            background-color: #212227;
+        }
+
+        .sports a {
+            text-decoration: none;
+            display: block;
+            float: left;
+            padding: 5px;
+            color: #fff;
+        }
+
+        .sportslass {
+            padding-right: 25px;
+        }
+        #mobileAds {
+            display: none;
+        }
+        .live {
+                width: 80px;
+            }
+            .fancybox-content { 
+    padding: 14px;
+}
+.fancybox-close-small {
+    background: #fff;
+    border-radius: 25px;
+    }
+
+#RightSide {
+        float: right;
+        width: 220px;
+    }
+    #RightSide img {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+           .activeSelect .event {
+            background-color: #b7b8bd;
+        } 
+@media (max-width: 1000px) {
+ 
+    .container {
+    max-width: 700px; 
+}
+.player { 
+    width: 700px;
+    height: 394px;
+}
+#eventlist {  
+    width: 100%;
+}
+ #date {
+    display: block;
+ }
+}
+    @media screen and (max-width: 680px) {
+        .league {
+            display: none;
+        }
+        .event {
+    padding: 5px; 
+}
+#skipBut {
+    padding: 6px !important;
+    font-size: 13px !important;
+    bottom: 50px !important;
+}
+ #centerDiv {
+    float: right;
+    width: 100%;
+ }
+ #eventlist {
+    width: 100%;
+}
+ 
+   
+.player {
+    width: 100%;
+    min-width: 100%;
+        height: 200px;
+}
+ #date {
+    display: none;
+ }
+ #mobileAds {
+            display: block;
+        }
+        #mobileAds a{
+                display: block;
+            width: 25%;
+            float: left;
+        }
+        #mobileAds img {
+                width: 100%;
+        }
+        #events { 
+    margin-right: 10px;
+}
+.logo img {
+    margin-top: 4px;
+    height: 20px;
+}
+#header {
+    height: 25px;
+}
+.banner_area img { 
+    height: 36px; 
+}
+}
+.icofont-basketball {
+ color: #ff7a08;
+}
+.icofont-football {
+ color: #000;
+}
+.icofont-tennis {
+ color: #079018;
+}
+.icofont-result-sport {
+ background: #1f6bdc;
+}
+.icofont-field-alt {
+    color: #e00808;
+}
