@@ -1,3 +1,4 @@
+
 var dataidm;
 var divData;
 
@@ -12,7 +13,7 @@ var divData;
                             var obj = json[i];
                             var icons=obj.sport;
                             var iconHtml=icons.toLowerCase(); 
-                            if (icons !== 'laboratory' && icons !== 'Dinero' && icons !== 'Tecnología' && icons !== 'Diseño') {
+                            if (icons !== 'Football' && icons !== 'Basketball' && icons !== 'Tennis') {
                                 iconHtml='result-sport';
                             }
                             
@@ -63,48 +64,42 @@ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
             }
 } 
 
-$(".SportSelect.Inicio").click(function(){
+$(".SportSelect.hepsi").click(function(){
     $('.SportSelect').removeClass("active");
     $(this).addClass("active");
     $(".eventClick").show();
-    divData='Inicio';
+    divData='hepsi';
 });
-$(".SportSelect.laboratory").click(function(){
+$(".SportSelect.Football").click(function(){
         $('.SportSelect').removeClass("active");
     $(this).addClass("active");
     $(".eventClick").hide();
-    $(".eventClick.laboratory").show();
-    divData='laboratory';
+    $(".eventClick.Football").show();
+    divData='Football';
 });
-$(".SportSelect.Diseño").click(function(){
+$(".SportSelect.Tennis").click(function(){
         $('.SportSelect').removeClass("active");
     $(this).addClass("active");
     $(".eventClick").hide();
-    $(".eventClick.Diseño").show();
-    divData='Diseño';
+    $(".eventClick.Tennis").show();
+    divData='Tennis';
 });
-$(".SportSelect.Dinero").click(function(){
+$(".SportSelect.Basketball").click(function(){
         $('.SportSelect').removeClass("active");
     $(this).addClass("active");
     $(".eventClick").hide();
-    $(".eventClick.Dinero").show();
-    divData='Dinero';
+    $(".eventClick.Basketball").show();
+    divData='Basketball';
 });
-$(".SportSelect.Tecnología").click(function(){
-        $('.SportSelect').removeClass("active");
-    $(this).addClass("active");
-    $(".eventClick").hide();
-    $(".eventClick.Tecnología").show();
-    divData='Tecnología';
-});
-$(".SportSelect.Otros").click(function(){
+$(".SportSelect.Diger").click(function(){
    $('.SportSelect').removeClass("active");
     $(this).addClass("active");
     $(".eventClick").show();
-    $(".eventClick.laboratory").hide();
-    $(".eventClick.Diseño").hide();
-    $(".eventClick.Dinero").hide();
-    $(".eventClick.Tecnología").hide();
-     divData='Otros';
+    $(".eventClick.Football").hide();
+    $(".eventClick.Tennis").hide();
+     $(".eventClick.Basketball").hide();
+     divData='Diger';
 });
+
+
 });
