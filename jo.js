@@ -5,7 +5,7 @@ var domain =window.location.hostname;
 var times=Math.floor(Date.now() / 60000);
 $("#eventlist").empty();
 $.ajax({
-url: "https://strxcdn21.gcdn.co/cdn/events.json?time="+times+"",
+url: "https://corsoflex.herokuapp.com/events.json?time="+times+"",
 success: function(json) {
 for(var i = 0; i < json.length; i++) {
 var obj = json[i];
