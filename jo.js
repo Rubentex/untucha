@@ -1,1 +1,110 @@
-var _0x3896=["\x68\x6F\x73\x74\x6E\x61\x6D\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6E\x6F\x77","\x66\x6C\x6F\x6F\x72","\x65\x6D\x70\x74\x79","\x23\x65\x76\x65\x6E\x74\x6C\x69\x73\x74","\x65\x76\x65\x6E\x74\x73\x2E\x6A\x73\x6F\x6E\x3F\x74\x69\x6D\x65\x3D","","\x6C\x65\x6E\x67\x74\x68","\x73\x70\x6F\x72\x74","\x74\x6F\x4C\x6F\x77\x65\x72\x43\x61\x73\x65","\x46\x6F\x6F\x74\x62\x61\x6C\x6C","\x42\x61\x73\x6B\x65\x74\x62\x61\x6C\x6C","\x54\x65\x6E\x6E\x69\x73","\x72\x65\x73\x75\x6C\x74\x2D\x73\x70\x6F\x72\x74","\x54\x56","\x66\x69\x65\x6C\x64\x2D\x61\x6C\x74","\x53\x6E\x6F\x6F\x6B\x65\x72","\x3C\x61\x20\x68\x72\x65\x66\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F","\x2F\x70\x6C\x61\x79\x65\x72\x2E\x68\x74\x6D\x6C\x3F\x69\x64\x3D","\x73\x74\x72\x65\x61\x6D\x69\x64","\x26\x74\x69\x74\x6C\x65\x3D","\x65\x76\x65\x6E\x74\x68\x6F\x6D\x65","\x20\x2D\x20","\x65\x76\x65\x6E\x74\x61\x77\x61\x79","\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x65\x76\x65\x6E\x74\x43\x6C\x69\x63\x6B\x20","\x20","\x69\x64","\x22\x20\x64\x61\x74\x61\x49\x64\x3D\x22","\x22\x20\x74\x61\x72\x67\x65\x74\x3D\x22\x73\x65\x61\x72\x63\x68\x5F\x69\x66\x72\x61\x6D\x65\x22\x20\x64\x61\x74\x61\x4E\x61\x6D\x65\x3D\x22","\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x65\x76\x65\x6E\x74\x20\x65\x76\x65\x6E\x20\x62\x6C\x6F\x63\x6B\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x63\x6F\x6E\x22\x3E\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x69\x63\x6F\x66\x6F\x6E\x74\x2D","\x22\x3E\x3C\x2F\x69\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x6C\x69\x76\x65\x22\x3E\x3C\x73\x70\x61\x6E\x3E\x3C\x73\x70\x61\x6E\x20\x73\x74\x79\x6C\x65\x3D\x22\x63\x6F\x6C\x6F\x72\x3A\x20\x62\x6C\x61\x63\x6B\x22\x3E","\x73\x74\x61\x72\x74","\x20\x3C\x2F\x73\x70\x61\x6E\x3E\x56\x49\x56\x4F\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x74\x65\x61\x6D\x73\x22\x3E\x3C\x73\x70\x61\x6E\x3E","\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x6C\x65\x61\x67\x75\x65\x22\x3E\x3C\x73\x70\x61\x6E\x3E","\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6C\x65\x61\x72\x22\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x61\x3E","\x61\x70\x70\x65\x6E\x64","\x63\x6C\x69\x63\x6B","\x74\x72\x69\x67\x67\x65\x72","\x2E\x53\x70\x6F\x72\x74\x53\x65\x6C\x65\x63\x74\x2E","\x61\x63\x74\x69\x76\x65\x53\x65\x6C\x65\x63\x74","\x61\x64\x64\x43\x6C\x61\x73\x73","\x5B\x64\x61\x74\x61\x69\x64\x3D\x22","\x22\x5D","\x61\x6A\x61\x78","\x61\x2E\x65\x76\x65\x6E\x74\x43\x6C\x69\x63\x6B","\x73\x6C\x6F\x77","\x61\x6E\x69\x6D\x61\x74\x65","\x68\x74\x6D\x6C\x2C\x20\x62\x6F\x64\x79","\x72\x65\x6D\x6F\x76\x65\x43\x6C\x61\x73\x73","\x2E\x65\x76\x65\x6E\x74\x43\x6C\x69\x63\x6B","\x64\x61\x74\x61\x49\x64","\x61\x74\x74\x72","\x6F\x6E","\x62\x6F\x64\x79","\x30","\x70\x61\x64\x53\x74\x61\x72\x74","\x67\x65\x74\x44\x61\x74\x65","\x67\x65\x74\x4D\x6F\x6E\x74\x68","\x67\x65\x74\x46\x75\x6C\x6C\x59\x65\x61\x72","\x2E","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x64\x61\x74\x65","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x67\x65\x74\x4D\x69\x6E\x75\x74\x65\x73","\x73\x65\x74\x4D\x69\x6E\x75\x74\x65\x73","\x75\x73\x65\x72\x41\x67\x65\x6E\x74","\x74\x65\x73\x74","\x70\x6F\x70\x75\x70","\x63\x6F\x6F\x6B\x69\x65","\x75\x6E\x64\x65\x66\x69\x6E\x65\x64","\x2E\x70\x6F\x70\x75\x70","\x61\x63\x74\x69\x76\x65","\x2E\x53\x70\x6F\x72\x74\x53\x65\x6C\x65\x63\x74","\x73\x68\x6F\x77","\x68\x65\x70\x73\x69","\x2E\x53\x70\x6F\x72\x74\x53\x65\x6C\x65\x63\x74\x2E\x68\x65\x70\x73\x69","\x68\x69\x64\x65","\x2E\x65\x76\x65\x6E\x74\x43\x6C\x69\x63\x6B\x2E\x46\x6F\x6F\x74\x62\x61\x6C\x6C","\x2E\x53\x70\x6F\x72\x74\x53\x65\x6C\x65\x63\x74\x2E\x46\x6F\x6F\x74\x62\x61\x6C\x6C","\x2E\x65\x76\x65\x6E\x74\x43\x6C\x69\x63\x6B\x2E\x54\x65\x6E\x6E\x69\x73","\x2E\x53\x70\x6F\x72\x74\x53\x65\x6C\x65\x63\x74\x2E\x54\x65\x6E\x6E\x69\x73","\x2E\x65\x76\x65\x6E\x74\x43\x6C\x69\x63\x6B\x2E\x42\x61\x73\x6B\x65\x74\x62\x61\x6C\x6C","\x2E\x53\x70\x6F\x72\x74\x53\x65\x6C\x65\x63\x74\x2E\x42\x61\x73\x6B\x65\x74\x62\x61\x6C\x6C","\x44\x69\x67\x65\x72","\x2E\x53\x70\x6F\x72\x74\x53\x65\x6C\x65\x63\x74\x2E\x44\x69\x67\x65\x72","\x72\x65\x61\x64\x79"];var dataidm;var divData;function list(){var _0x13bex4=window[_0x3896[1]][_0x3896[0]];var _0x13bex5=Math[_0x3896[3]](Date[_0x3896[2]]()/ 60000);$(_0x3896[5])[_0x3896[4]]();$[_0x3896[44]]({url:_0x3896[6]+ _0x13bex5+ _0x3896[7],success:function(_0x13bex6){for(var _0x13bex7=0;_0x13bex7< _0x13bex6[_0x3896[8]];_0x13bex7++){var _0x13bex8=_0x13bex6[_0x13bex7];var _0x13bex9=_0x13bex8[_0x3896[9]];var _0x13bexa=_0x13bex9[_0x3896[10]]();if(_0x13bex9!== _0x3896[11]&& _0x13bex9!== _0x3896[12]&& _0x13bex9!== _0x3896[13]){_0x13bexa= _0x3896[14]};if(_0x13bex9== _0x3896[15]){_0x13bexa= _0x3896[16]};if(_0x13bex9!= _0x3896[17]){$(_0x3896[5])[_0x3896[36]](_0x3896[18]+ _0x13bex4+ _0x3896[19]+ _0x13bex8[_0x3896[20]]+ _0x3896[21]+ _0x13bex8[_0x3896[22]]+ _0x3896[23]+ _0x13bex8[_0x3896[24]]+ _0x3896[25]+ _0x13bex8[_0x3896[9]]+ _0x3896[26]+ _0x13bex8[_0x3896[27]]+ _0x3896[28]+ _0x13bex8[_0x3896[27]]+ _0x3896[29]+ _0x13bex8[_0x3896[22]]+ _0x3896[23]+ _0x13bex8[_0x3896[24]]+ _0x3896[30]+ _0x13bexa+ _0x3896[31]+ _0x13bex8[_0x3896[32]]+ _0x3896[33]+ _0x13bex8[_0x3896[22]]+ _0x3896[23]+ _0x13bex8[_0x3896[24]]+ _0x3896[34]+ _0x13bex8[_0x3896[9]]+ _0x3896[35])}};$(_0x3896[39]+ divData+ _0x3896[7])[_0x3896[38]](_0x3896[37]);$(_0x3896[42]+ dataidm+ _0x3896[43])[_0x3896[41]](_0x3896[40])}})}list(),setInterval(list,60000),$(_0x3896[54])[_0x3896[53]](_0x3896[37],_0x3896[45],function(){$(_0x3896[48])[_0x3896[47]]({scrollTop:0},_0x3896[46]);$(_0x3896[50])[_0x3896[49]](_0x3896[40]);dataidm= $(this)[_0x3896[52]](_0x3896[51]);$(this)[_0x3896[41]](_0x3896[40])});var today= new Date();var dd=String(today[_0x3896[57]]())[_0x3896[56]](2,_0x3896[55]);var mm=String(today[_0x3896[58]]()+ 1)[_0x3896[56]](2,_0x3896[55]);var yyyy=today[_0x3896[59]]();today= dd+ _0x3896[60]+ mm+ _0x3896[60]+ yyyy;document[_0x3896[63]](_0x3896[62])[_0x3896[61]]= today;$(document)[_0x3896[86]](function(){var _0x13bexf= new Date();_0x13bexf[_0x3896[65]](_0x13bexf[_0x3896[64]]()+ 10);if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i[_0x3896[67]](navigator[_0x3896[66]])){}else {var _0x13bex10=$[_0x3896[69]](_0x3896[68]);if( typeof _0x13bex10== _0x3896[70]){$(_0x3896[71])[_0x3896[37]](function(){$[_0x3896[69]](_0x3896[68],true,{expires:_0x13bexf})})[_0x3896[38]](_0x3896[37])}};$(_0x3896[76])[_0x3896[37]](function(){$(_0x3896[73])[_0x3896[49]](_0x3896[72]);$(this)[_0x3896[41]](_0x3896[72]);$(_0x3896[50])[_0x3896[74]]();divData= _0x3896[75]});$(_0x3896[79])[_0x3896[37]](function(){$(_0x3896[73])[_0x3896[49]](_0x3896[72]);$(this)[_0x3896[41]](_0x3896[72]);$(_0x3896[50])[_0x3896[77]]();$(_0x3896[78])[_0x3896[74]]();divData= _0x3896[11]});$(_0x3896[81])[_0x3896[37]](function(){$(_0x3896[73])[_0x3896[49]](_0x3896[72]);$(this)[_0x3896[41]](_0x3896[72]);$(_0x3896[50])[_0x3896[77]]();$(_0x3896[80])[_0x3896[74]]();divData= _0x3896[13]});$(_0x3896[83])[_0x3896[37]](function(){$(_0x3896[73])[_0x3896[49]](_0x3896[72]);$(this)[_0x3896[41]](_0x3896[72]);$(_0x3896[50])[_0x3896[77]]();$(_0x3896[82])[_0x3896[74]]();divData= _0x3896[12]});$(_0x3896[85])[_0x3896[37]](function(){$(_0x3896[73])[_0x3896[49]](_0x3896[72]);$(this)[_0x3896[41]](_0x3896[72]);$(_0x3896[50])[_0x3896[74]]();$(_0x3896[78])[_0x3896[77]]();$(_0x3896[80])[_0x3896[77]]();$(_0x3896[82])[_0x3896[77]]();divData= _0x3896[84]})})
+var dataidm;
+var divData;
+
+            function list() {
+            var domain =window.location.hostname; 
+                var times=Math.floor(Date.now() / 60000);
+                $("#eventlist").empty();
+                 $.ajax({
+                    url: "events.json?time="+times+"",
+                    success: function(json) {
+                        for(var i = 0; i < json.length; i++) {
+                            var obj = json[i];
+                            var icons=obj.sport;
+                            var iconHtml=icons.toLowerCase(); 
+                            if (icons !== 'Salud' && icons !== 'Dinero' && icons !== 'Tecnología' && icons !== 'Diseño') {
+                                iconHtml='result-sport';
+                            }
+                            
+                            if (icons=='TV') {
+                                 iconHtml='field-alt';
+                            }
+                            if (icons !='Snooker') { 
+                            $("#eventlist").append('<a href="https://'+domain+'/player.html?id='+obj.streamid+'&title='+obj.eventhome+' - '+obj.eventaway+'" class="eventClick '+obj.sport+' '+obj.id+'" dataId="'+obj.id+'" target="search_iframe" dataName="'+obj.eventhome+' - '+obj.eventaway+'"><div class="event even block"><div class="icon"><i class="icofont-'+iconHtml+'"></i></div><div class="live"><span><span style="color: black">'+obj.start+' </span>VIVO</span></div><div class="teams"><span>'+obj.eventhome+' - '+obj.eventaway+'</span></div><div class="league"><span>'+obj.sport+'</span></div><div class="clear"></div></div></a>');
+                            }
+                         }
+                        $(".SportSelect."+divData+"").trigger("click");
+                        ///$("#eventlist").empty().append(t);
+
+                       $('[dataid="'+dataidm+'"]').addClass("activeSelect");
+                    }
+                })
+            }
+         
+ list(), setInterval(list, 60000), $("body").on("click", "a.eventClick", function() {
+                $("html, body").animate({ scrollTop: 0 }, "slow");
+                    $(".eventClick").removeClass("activeSelect");
+                     dataidm = $(this).attr("dataId");
+                     $(this).addClass("activeSelect");
+                  
+                })
+var today = new Date();
+var dd = String(today.getDate()).padStart(2, '0');
+var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+var yyyy = today.getFullYear();
+
+today = dd + '.' + mm + '.' + yyyy;
+
+document.getElementById('date').innerHTML = today;
+
+
+ $(document).ready(function () { 
+
+            var popupExpire = new Date();
+            popupExpire.setMinutes(popupExpire.getMinutes() + 10);
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+
+} else {
+                var hasCookie = $.cookie('popup');
+            if (typeof hasCookie == 'undefined') {
+                $('.popup').click(function () {
+                    $.cookie('popup', true, {expires: popupExpire});
+                }).trigger('click');
+            }
+} 
+
+$(".SportSelect.Inicio").click(function(){
+    $('.SportSelect').removeClass("active");
+    $(this).addClass("active");
+    $(".eventClick").show();
+    divData='Inicio';
+});
+$(".SportSelect.Salud").click(function(){
+        $('.SportSelect').removeClass("active");
+    $(this).addClass("active");
+    $(".eventClick").hide();
+    $(".eventClick.Salud").show();
+    divData='Salud';
+});
+$(".SportSelect.Diseño").click(function(){
+        $('.SportSelect').removeClass("active");
+    $(this).addClass("active");
+    $(".eventClick").hide();
+    $(".eventClick.Diseño").show();
+    divData='Diseño';
+});
+$(".SportSelect.Dinero").click(function(){
+        $('.SportSelect').removeClass("active");
+    $(this).addClass("active");
+    $(".eventClick").hide();
+    $(".eventClick.Dinero").show();
+    divData='Dinero';
+});
+$(".SportSelect.Tecnología").click(function(){
+        $('.SportSelect').removeClass("active");
+    $(this).addClass("active");
+    $(".eventClick").hide();
+    $(".eventClick.Tecnología").show();
+    divData='Tecnología';
+});
+$(".SportSelect.Otros").click(function(){
+   $('.SportSelect').removeClass("active");
+    $(this).addClass("active");
+    $(".eventClick").show();
+    $(".eventClick.Salud").hide();
+    $(".eventClick.Diseño").hide();
+    $(".eventClick.Dinero").hide();
+    $(".eventClick.Tecnología").hide();
+     divData='Otros';
+});
+});
