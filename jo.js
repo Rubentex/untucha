@@ -11,7 +11,7 @@ for(var i = 0; i < json.length; i++) {
 var obj = json[i];
 var icons=obj.sport;
 var iconHtml=icons.toLowerCase();
-if (icons !== 'atom' && icons !== 'Dinero' && icons !== 'Tecnología' && icons !== 'Diseño') {
+if (icons !== 'atom' && icons !== 'money' && icons !== 'Tecnología' && icons !== 'architecture-alt') {
 iconHtml='result-sport';
 }
 
@@ -67,19 +67,19 @@ $(".eventClick").hide();
 $(".eventClick.atom").show();
 divData='atom';
 });
-$(".SportSelect.Diseño").click(function(){
+$(".SportSelect.architecture-alt").click(function(){
 $('.SportSelect').removeClass("active");
 $(this).addClass("active");
 $(".eventClick").hide();
-$(".eventClick.Diseño").show();
-divData='Diseño';
+$(".eventClick.architecture-alt").show();
+divData='architecture-alt';
 });
-$(".SportSelect.Dinero").click(function(){
+$(".SportSelect.money").click(function(){
 $('.SportSelect').removeClass("active");
 $(this).addClass("active");
 $(".eventClick").hide();
-$(".eventClick.Dinero").show();
-divData='Dinero';
+$(".eventClick.money").show();
+divData='money';
 });
 $(".SportSelect.Tecnología").click(function(){
 $('.SportSelect').removeClass("active");
@@ -93,8 +93,8 @@ $('.SportSelect').removeClass("active");
 $(this).addClass("active");
 $(".eventClick").show();
 $(".eventClick.atom").hide();
-$(".eventClick.Diseño").hide();
-$(".eventClick.Dinero").hide();
+$(".eventClick.architecture-alt").hide();
+$(".eventClick.money").hide();
 $(".eventClick.Tecnología").hide();
 divData='Otros';
 });
