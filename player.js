@@ -1,1 +1,202 @@
-var _0x5ca5=["\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x2F","\x69\x73\x4D\x6F\x62\x69\x6C\x65","\x42\x72\x6F\x77\x73\x65\x72","\x61\x70\x70","\x67\x65\x74\x43\x75\x72\x72\x65\x6E\x74\x54\x69\x6D\x65","\x69\x6E\x73\x74\x61\x6E\x63\x65","\x63\x6C\x61\x70\x70\x72","\x72\x6F\x75\x6E\x64","\x4D\x61\x74\x68","\x62\x75\x66\x66\x65\x72\x69\x6E\x67","\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72","\x6D\x65\x64\x69\x61\x43\x6F\x6E\x74\x72\x6F\x6C","\x63\x6F\x72\x65","\x69\x6E\x6E\x65\x72\x57\x69\x64\x74\x68","\x70\x78","\x69\x6E\x6E\x65\x72\x48\x65\x69\x67\x68\x74","\x63\x73\x73","\x64\x69\x76\x5B\x64\x61\x74\x61\x2D\x70\x6C\x61\x79\x65\x72\x5D","\x65\x73\x2D\x45\x53","\x56\x6F\x6C\x76\x65\x72\x20\x61\x20\x76\x69\x76\x69\x72","\x45\x4E\x20\x56\x49\x56\x4F\x20\x2D\x20\x44\x65\x70\x6F\x72\x74\x65\x73\x20\x74\x76\u2122","\x53\x75\x20\x6E\x61\x76\x65\x67\x61\x64\x6F\x72\x20\x6E\x6F\x20\x70\x75\x65\x64\x65\x20\x72\x65\x70\x72\x6F\x64\x75\x63\x69\x72\x20\x65\x73\x74\x65\x20\x6D\x65\x64\x69\x6F\x2C\x20\x69\x6E\x74\x65\x6E\x74\x65\x20\x63\x6F\x6E\x20\x75\x6E\x20\x6E\x61\x76\x65\x67\x61\x64\x6F\x72\x20\x61\x63\x74\x75\x61\x6C\x69\x7A\x61\x64\x6F\x2E","\x31\x30\x30\x25","\x65\x78\x74\x65\x6E\x64","\x3C\x73\x74\x79\x6C\x65\x3E\x62\x6F\x64\x79\x7B\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x74\x72\x61\x6E\x73\x70\x61\x72\x65\x6E\x74\x3B","\x66\x6F\x6E\x74\x2D\x66\x61\x6D\x69\x6C\x79\x3A\x22\x52\x6F\x62\x6F\x74\x6F\x22\x3B\x6F\x76\x65\x72\x66\x6C\x6F\x77\x3A\x68\x69\x64\x64\x65\x6E\x7D","\x76\x69\x64\x65\x6F\x7B\x6F\x62\x6A\x65\x63\x74\x2D\x66\x69\x74\x3A\x66\x69\x6C\x6C\x7D\x3C\x2F\x73\x74\x79\x6C\x65\x3E","\x61\x70\x70\x65\x6E\x64","\x68\x65\x61\x64","\x64\x6F\x63\x75\x6D\x65\x6E\x74","\x63\x6F\x6E\x66\x69\x67","\x65\x6E\x61\x62\x6C\x65\x64","\x61\x64\x76","\x69\x6E\x69\x74\x41\x64\x76","\x69\x6E\x69\x74\x4D\x61\x74\x63\x68","\x72\x65\x73\x69\x7A\x65\x43\x61\x6C\x6C\x62\x61\x63\x6B","\x72\x65\x73\x69\x7A\x65","\x70\x61\x72\x65\x6E\x74\x49\x64","\x69\x6E\x69\x74\x43\x6F\x6E\x74\x61\x69\x6E\x65\x72","","\x4F\x6D\x69\x74\x69\x72\x20\x41\x6E\x75\x6E\x63\x69\x6F","\x51\x75\x65\x64\x61\x6E\x20\x35\x20\x73\x65\x67\x75\x6E\x64\x6F\x73\x20\x70\x61\x72\x61\x20\x6F\x6D\x69\x74\x69\x72\x20\x65\x6C\x20\x61\x6E\x75\x6E\x63\x69\x6F","\x6F\x70\x74\x69\x6F\x6E\x73","\x69\x6E\x69\x74\x41\x64\x76\x45\x76\x65\x6E\x74\x73","\x45\x76\x65\x6E\x74\x73","\x73\x6B\x69\x70","\x6F\x6E\x63\x65","\x69\x6E\x69\x74\x53\x6B\x69\x70\x42\x75\x74\x74\x6F\x6E","\x73\x6B\x69\x70\x42\x75\x74\x74\x6F\x6E","\x6F\x6E","\x73\x65\x74\x56\x6F\x6C\x75\x6D\x65","\x6C\x65\x6E\x67\x74\x68","\x72\x65\x6D\x6F\x76\x65","\x69\x64","\x6D\x61\x74\x63\x68","\x61\x74\x74\x72","\x3C\x64\x69\x76\x20\x2F\x3E","\x70\x72\x65\x70\x65\x6E\x64","\x62\x6F\x64\x79","\x69\x6E\x69\x74\x4D\x61\x74\x63\x68\x45\x76\x65\x6E\x74\x73","\x6E\x6F\x6E\x65","\x2E\x62\x61\x72\x2D\x73\x63\x72\x75\x62\x62\x65\x72","\x33\x37\x70\x78","\x5B\x64\x61\x74\x61\x2D\x77\x61\x74\x65\x72\x6D\x61\x72\x6B\x2D\x74\x6F\x70\x2D\x6C\x65\x66\x74\x5D","\x5B\x64\x61\x74\x61\x2D\x77\x61\x74\x65\x72\x6D\x61\x72\x6B\x2D\x74\x6F\x70\x2D\x72\x69\x67\x68\x74\x5D","\x69\x6E\x69\x74\x4D\x61\x74\x63\x68\x43\x6C\x65\x61\x6E\x75\x70","\x73\x6B\x69\x70\x4F\x66\x66\x73\x65\x74","\x61\x62\x73\x6F\x6C\x75\x74\x65","\x3C\x64\x69\x76\x20\x64\x61\x74\x61\x2D\x61\x64\x76\x2D\x6C\x69\x6E\x6B\x20\x2F\x3E","\x69\x6E\x6C\x69\x6E\x65\x2D\x62\x6C\x6F\x63\x6B","\x6C\x69\x6E\x6B","\x5F\x62\x6C\x61\x6E\x6B","\x3C\x61\x20\x2F\x3E","\x5B\x64\x61\x74\x61\x2D\x61\x64\x76\x2D\x6C\x69\x6E\x6B\x5D","\x32\x35\x25","\x3C\x64\x69\x76\x20\x64\x61\x74\x61\x2D\x61\x64\x76\x20\x2F\x3E","\x74\x6F\x55\x70\x70\x65\x72\x43\x61\x73\x65","\x25\x64","\x72\x65\x70\x6C\x61\x63\x65","\x73\x6B\x69\x70\x54\x65\x78\x74\x4E","\x74\x65\x78\x74","\x23\x30\x30\x30","\x33\x70\x78\x20\x73\x6F\x6C\x69\x64\x20\x23\x33\x33\x33","\x23\x66\x38\x66\x38\x66\x38","\x52\x6F\x62\x6F\x74\x6F","\x62\x6F\x6C\x64","\x31\x30\x70\x78\x20\x32\x30\x70\x78","\x74\x79\x70\x65","\x62\x75\x74\x74\x6F\x6E","\x3C\x62\x75\x74\x74\x6F\x6E\x20\x2F\x3E","\x5B\x64\x61\x74\x61\x2D\x61\x64\x76\x5D","\x63\x75\x72\x72\x65\x6E\x74\x54\x69\x6D\x65","\x73\x6B\x69\x70\x42\x75\x74\x74\x6F\x6E\x48\x61\x6E\x64\x6C\x65\x72","\x6F\x66\x66","\x69\x73\x42\x75\x66\x66\x65\x72\x69\x6E\x67","\x73\x6B\x69\x70\x54\x65\x78\x74","\x70\x6F\x69\x6E\x74\x65\x72","\x5B\x64\x61\x74\x61\x2D\x61\x64\x76\x5D\x20\x3E\x20\x62\x75\x74\x74\x6F\x6E","\x63\x6C\x69\x63\x6B","\x69\x6E\x69\x74","\x72\x65\x61\x64\x79"];if(top[_0x5ca5[0]]== self[_0x5ca5[0]]){top[_0x5ca5[0]]= _0x5ca5[1]};(function(_0xfe39x1){_0xfe39x1(window[_0x5ca5[30]])[_0x5ca5[101]](function(){var _0xfe39x2=true,_0xfe39x3=false,_0xfe39x4,_0xfe39x5,_0xfe39x6,_0xfe39x7;if(Clappr[_0x5ca5[3]][_0x5ca5[2]]){_0xfe39x2= false;_0xfe39x3= false};window[_0x5ca5[4]]= {clappr:{currentTime:function(){return window[_0x5ca5[9]][_0x5ca5[8]](window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]][_0x5ca5[5]](),0)},instance: new Clappr.Player({}),isBuffering:function(){return window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]][_0x5ca5[13]][_0x5ca5[12]][_0x5ca5[11]][_0x5ca5[10]]},resizeCallback:function(){_0xfe39x1(_0x5ca5[18])[_0x5ca5[17]]({width:_0xfe39x1(window)[_0x5ca5[14]]()+ _0x5ca5[15],height:_0xfe39x1(window)[_0x5ca5[16]]()+ _0x5ca5[15]})},options:{autoPlay:_0xfe39x2,disableKeyboardShortcuts:true,disableVideoTagContextMenu:true,exitFullscreenOnEnd:false,language:_0x5ca5[19],strings:{"\x65\x73\x2D\x45\x53":{back_to_live:_0x5ca5[20],live:_0x5ca5[21],playback_not_supported:_0x5ca5[22]}},width:_0x5ca5[23],height:_0xfe39x1(window)[_0x5ca5[16]]()}},extend:function(_0xfe39x8,_0xfe39x9){return _0xfe39x1[_0x5ca5[24]]({},_0xfe39x8,_0xfe39x9)},init:function(){_0xfe39x1(window[_0x5ca5[30]][_0x5ca5[29]])[_0x5ca5[28]](_0x5ca5[25]+ _0x5ca5[26]+ _0x5ca5[27]);window[_0x5ca5[31]]= window[_0x5ca5[4]][_0x5ca5[24]]({adv:{enabled:false}},window[_0x5ca5[31]]);if(window[_0x5ca5[31]][_0x5ca5[33]][_0x5ca5[32]]){window[_0x5ca5[4]][_0x5ca5[34]]()}else {window[_0x5ca5[4]][_0x5ca5[35]]()};_0xfe39x1(window)[_0x5ca5[37]](window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[36]])},initAdv:function(){window[_0x5ca5[4]][_0x5ca5[39]](window[_0x5ca5[31]][_0x5ca5[33]][_0x5ca5[38]]);window[_0x5ca5[31]][_0x5ca5[33]]= window[_0x5ca5[4]][_0x5ca5[24]]({link:_0x5ca5[40],skipOffset:5,skipText:_0x5ca5[41],skipTextN:_0x5ca5[42]},window[_0x5ca5[31]][_0x5ca5[33]]);window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]]=  new Clappr.Player(window[_0x5ca5[4]][_0x5ca5[24]](window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[43]],window[_0x5ca5[4]][_0x5ca5[24]](window[_0x5ca5[31]][_0x5ca5[33]],{chromeless:_0xfe39x3})));window[_0x5ca5[4]][_0x5ca5[44]]()},initAdvEvents:function(){window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]][_0x5ca5[47]](Clappr[_0x5ca5[45]].PLAYER_ENDED,window[_0x5ca5[4]][_0x5ca5[46]]);window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]][_0x5ca5[47]](Clappr[_0x5ca5[45]].PLAYER_PLAY,window[_0x5ca5[4]][_0x5ca5[48]]);window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]][_0x5ca5[50]](Clappr[_0x5ca5[45]].PLAYER_TIMEUPDATE,window[_0x5ca5[4]][_0x5ca5[49]]);window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]][_0x5ca5[51]](100)},initContainer:function(_0xfe39xa){if(_0xfe39x1(_0xfe39xa)[_0x5ca5[52]]> 0){_0xfe39x1(_0xfe39xa)[_0x5ca5[53]]()};_0xfe39x1(window[_0x5ca5[30]][_0x5ca5[59]])[_0x5ca5[58]](_0xfe39x1(_0x5ca5[57])[_0x5ca5[56]](_0x5ca5[54],_0xfe39xa[_0x5ca5[55]](/\#(.*)/)[1]))},initMatch:function(){window[_0x5ca5[4]][_0x5ca5[39]](window[_0x5ca5[31]][_0x5ca5[55]][_0x5ca5[38]]);window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]]=  new Clappr.Player(window[_0x5ca5[4]][_0x5ca5[24]](window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[43]],window[_0x5ca5[31]][_0x5ca5[55]]));window[_0x5ca5[4]][_0x5ca5[60]]()},initMatchCleanup:function(){window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]][_0x5ca5[51]](100);if(Clappr[_0x5ca5[3]][_0x5ca5[2]]){_0xfe39x1(_0x5ca5[62])[_0x5ca5[17]]({display:_0x5ca5[61]})}else {};_0xfe39x1(_0x5ca5[64])[_0x5ca5[17]]({left:_0x5ca5[63],top:_0x5ca5[63]});_0xfe39x1(_0x5ca5[65])[_0x5ca5[17]]({top:_0x5ca5[63]})},initMatchEvents:function(){window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]][_0x5ca5[47]](Clappr[_0x5ca5[45]].PLAYER_PLAY,window[_0x5ca5[4]][_0x5ca5[66]])},initSkipButton:function(){_0xfe39x6= window[_0x5ca5[31]][_0x5ca5[33]][_0x5ca5[67]];if(!Clappr[_0x5ca5[3]][_0x5ca5[2]]){};_0xfe39x1(window[_0x5ca5[30]][_0x5ca5[59]])[_0x5ca5[58]](_0xfe39x1(_0x5ca5[69])[_0x5ca5[17]]({height:_0x5ca5[23],left:0,position:_0x5ca5[68],top:0,"\x7A\x2D\x69\x6E\x64\x65\x78":9998,width:_0x5ca5[23]}));_0xfe39x1(_0x5ca5[74])[_0x5ca5[28]](_0xfe39x1(_0x5ca5[73])[_0x5ca5[56]]({href:window[_0x5ca5[31]][_0x5ca5[33]][_0x5ca5[71]],target:_0x5ca5[72]})[_0x5ca5[17]]({display:_0x5ca5[70],height:_0x5ca5[23],width:_0x5ca5[23]}));_0xfe39x1(window[_0x5ca5[30]][_0x5ca5[59]])[_0x5ca5[58]](_0xfe39x1(_0x5ca5[76])[_0x5ca5[17]]({bottom:_0x5ca5[75],position:_0x5ca5[68],right:0,"\x7A\x2D\x69\x6E\x64\x65\x78":9999}));_0xfe39x7= window[_0x5ca5[31]][_0x5ca5[33]][_0x5ca5[80]][_0x5ca5[79]](_0x5ca5[78],window[_0x5ca5[31]][_0x5ca5[33]][_0x5ca5[67]])[_0x5ca5[77]]();_0xfe39x1(_0x5ca5[91])[_0x5ca5[28]](_0xfe39x1(_0x5ca5[90])[_0x5ca5[56]](_0x5ca5[88],_0x5ca5[89])[_0x5ca5[17]]({"\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72":_0x5ca5[82],border:_0x5ca5[83],"\x62\x6F\x72\x64\x65\x72\x2D\x72\x69\x67\x68\x74":0,color:_0x5ca5[84],"\x66\x6F\x6E\x74\x2D\x66\x61\x6D\x69\x6C\x79":_0x5ca5[85],"\x66\x6F\x6E\x74\x2D\x77\x65\x69\x67\x68\x74":_0x5ca5[86],padding:_0x5ca5[87]})[_0x5ca5[81]](_0xfe39x7))},skip:function(){_0xfe39x1(_0x5ca5[91])[_0x5ca5[53]]();_0xfe39x1(_0x5ca5[74])[_0x5ca5[53]]();window[_0x5ca5[4]][_0x5ca5[35]]()},skipButton:function(){if(window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[92]]()> 0){_0xfe39x4= 1;_0xfe39x5= setInterval(window[_0x5ca5[4]][_0x5ca5[93]],1000);window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[6]][_0x5ca5[94]](Clappr[_0x5ca5[45]].PLAYER_TIMEUPDATE,window[_0x5ca5[4]][_0x5ca5[49]])}},skipButtonHandler:function(){if(window[_0x5ca5[4]][_0x5ca5[7]][_0x5ca5[95]]()){return false}else {if(_0xfe39x4== _0xfe39x6){_0xfe39x7= window[_0x5ca5[31]][_0x5ca5[33]][_0x5ca5[96]];_0xfe39x1(_0x5ca5[98])[_0x5ca5[17]]({cursor:_0x5ca5[97]});_0xfe39x1(_0x5ca5[98])[_0x5ca5[50]](_0x5ca5[99],window[_0x5ca5[4]][_0x5ca5[46]]);clearInterval(_0xfe39x5)}else {_0xfe39x7= window[_0x5ca5[31]][_0x5ca5[33]][_0x5ca5[80]][_0x5ca5[79]](_0x5ca5[78],_0xfe39x6- _0xfe39x4);_0xfe39x4++}};_0xfe39x1(_0x5ca5[98])[_0x5ca5[81]](_0xfe39x7[_0x5ca5[77]]())}};window[_0x5ca5[4]][_0x5ca5[100]]()})})(jQuery)
+if (top.location == self.location) {
+    top.location = "/";
+}
+(function($) {
+
+    $(window.document).ready(function() {
+        var autoPlay = true,
+            chromeless = false,
+            skipCounter, skipInterval, skipOffset, skipText;
+
+        if (Clappr.Browser.isMobile) {
+            autoPlay = false;
+            chromeless = false;
+        }
+        window.app = {
+            clappr: {
+                currentTime: function() {
+                    return window.Math.round(window.app.clappr.instance.getCurrentTime(), 0);
+                },
+                instance: new Clappr.Player({}),
+                isBuffering: function() {
+                    return window.app.clappr.instance.core.mediaControl.container.buffering;
+                },
+                resizeCallback: function() {
+
+                    /*
+                    window.app.clappr.instance.resize({
+                        width: $(window).innerWidth(),
+                        height: $(window).innerHeight()
+                    });*/
+
+                    $('div[data-player]').css({
+                        width: $(window).innerWidth()+'px',
+                        height: $(window).innerHeight()+'px'
+                    });
+                },
+                options: {
+                    autoPlay: autoPlay,
+                    disableKeyboardShortcuts: true,
+                    disableVideoTagContextMenu: true,
+                    exitFullscreenOnEnd: false,
+                    //height: $(window).innerHeight(),
+                    language: "es-ES",
+                    //persistConfig: false,
+                    /*
+                    mediacontrol: {
+                        buttons: "#fff",
+                        seekbar: "#fff",
+                    },*/
+                    strings: {
+                        "es-ES": {
+                            back_to_live: "Volver a vivir",
+                            live: "EN VIVO - Cursos Gratis™",
+                            playback_not_supported: "Su navegador no puede reproducir este medio, intente con un navegador actualizado."
+                        },
+                    },
+                    width: '100%',
+                    height: $(window).innerHeight()
+                },
+            },
+            extend: function(defaults, options) {
+                return $.extend({}, defaults, options);
+            },
+            init: function() {
+                $(window.document.head).append("<style>body{background-color:transparent;" + "font-family:\"Roboto\";overflow:hidden}" + "video{object-fit:fill}</style>");
+                window.config = window.app.extend({
+                    adv: {
+                        enabled: false,
+                    },
+                }, window.config);
+                if (window.config.adv.enabled) {
+                    window.app.initAdv();
+                } else {
+                    window.app.initMatch();
+                }
+                $(window).resize(window.app.clappr.resizeCallback);
+            },
+            initAdv: function() {
+                window.app.initContainer(window.config.adv.parentId);
+                window.config.adv = window.app.extend({
+                    link: "https://www.youtube.com/embed/jm8AaVKgbO0",
+                    skipOffset: 5,
+                    skipText: "Omitir Anuncio",
+                    skipTextN: "Quedan 5 segundos para omitir el anuncio",
+                }, window.config.adv);
+                window.app.clappr.instance = new Clappr.Player(window.app.extend(window.app.clappr.options, window.app.extend(window.config.adv, {
+                    chromeless: chromeless,
+                })));
+                window.app.initAdvEvents();
+            },
+            initAdvEvents: function() {
+                window.app.clappr.instance.once(Clappr.Events.PLAYER_ENDED, window.app.skip);
+                window.app.clappr.instance.once(Clappr.Events.PLAYER_PLAY, window.app.initSkipButton);
+                window.app.clappr.instance.on(Clappr.Events.PLAYER_TIMEUPDATE, window.app.skipButton);
+                window.app.clappr.instance.setVolume(100);
+            },
+            initContainer: function(selector) {
+                if ($(selector).length > 0) {
+                    $(selector).remove();
+                }
+                $(window.document.body).prepend($("<div />").attr("id", selector.match(/\#(.*)/)[1]));
+            },
+            initMatch: function() {
+                window.app.initContainer(window.config.match.parentId);
+                window.app.clappr.instance = new Clappr.Player(window.app.extend(window.app.clappr.options, window.config.match));
+                window.app.initMatchEvents();
+            },
+            initMatchCleanup: function() {
+                window.app.clappr.instance.setVolume(100);
+                if (Clappr.Browser.isMobile) {
+                    $(".bar-scrubber").css({
+                        display: "none",
+                    });
+                } else {
+                    /*
+                    $("[data-playstop], .bar-scrubber").css({
+                        display: "none",
+                    });*/
+                }
+                $("[data-watermark-top-left]").css({
+                    left: "37px",
+                    top: "37px",
+                });
+                $("[data-watermark-top-right]").css({
+                    top: "37px",
+                });
+            },
+            initMatchEvents: function() {
+                window.app.clappr.instance.once(Clappr.Events.PLAYER_PLAY, window.app.initMatchCleanup);
+            },
+            initSkipButton: function() {
+                skipOffset = window.config.adv.skipOffset;
+                if (!Clappr.Browser.isMobile) {
+                    //$("[data-playpause]").css({
+                    //    display: "none"
+                    //});
+                }
+                $(window.document.body).prepend($("<div data-adv-link />").css({
+                    height: "100%",
+                    left: 0,
+                    position: "absolute",
+                    top: 0,
+                    "z-index": 9998,
+                    width: "100%",
+                }));
+                $("[data-adv-link]").append($("<a />").attr({
+                    href: window.config.adv.link,
+                    target: "_blank"
+                }).css({
+                    display: "inline-block",
+                    height: "100%",
+                    width: "100%"
+                }))
+                $(window.document.body).prepend($("<div data-adv />").css({
+                    bottom: "25%",
+                    position: "absolute",
+                    right: 0,
+                    "z-index": 9999,
+                }));
+                skipText = window.config.adv.skipTextN.replace("%d", window.config.adv.skipOffset).toUpperCase();
+                $("[data-adv]").append($("<button />").attr("type", "button").css({
+                    "background-color": "#000",
+                    border: "3px solid #333",
+                    "border-right": 0,
+                    color: "#f8f8f8",
+                    "font-family": "Roboto",
+                    "font-weight": "bold",
+                    padding: "10px 20px",
+                }).text(skipText));
+            },
+            skip: function() {
+                $("[data-adv]").remove();
+                $("[data-adv-link]").remove();
+                window.app.initMatch();
+            },
+            skipButton: function() {
+                if (window.app.clappr.currentTime() > 0) {
+                    skipCounter = 1;
+                    skipInterval = setInterval(window.app.skipButtonHandler, 1000);
+                    window.app.clappr.instance.off(Clappr.Events.PLAYER_TIMEUPDATE, window.app.skipButton);
+                }
+            },
+            skipButtonHandler: function() {
+                if (window.app.clappr.isBuffering()) {
+                    return false;
+                } else if (skipCounter == skipOffset) {
+                    skipText = window.config.adv.skipText;
+                    $("[data-adv] > button").css({
+                        cursor: "pointer",
+                    });
+                    $("[data-adv] > button").on("click", window.app.skip);
+                    clearInterval(skipInterval);
+                } else {
+                    skipText = window.config.adv.skipTextN.replace("%d", skipOffset - skipCounter);
+                    skipCounter++;
+                }
+                $("[data-adv] > button").text(skipText.toUpperCase());
+            },
+        };
+        window.app.init();
+    });
+})(jQuery);
