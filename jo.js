@@ -11,7 +11,7 @@ for(var i = 0; i < json.length; i++) {
 var obj = json[i];
 var icons=obj.sport;
 var iconHtml=icons.toLowerCase();
-if (icons !== 'atom' && icons !== 'money' && icons !== 'Tecnología' && icons !== 'architecture-alt') {
+if (icons !== 'atom' && icons !== 'money' && icons !== 'electron' && icons !== 'architecture-alt') {
 iconHtml='result-sport';
 }
 
@@ -81,12 +81,12 @@ $(".eventClick").hide();
 $(".eventClick.money").show();
 divData='money';
 });
-$(".SportSelect.Tecnología").click(function(){
+$(".SportSelect.electron").click(function(){
 $('.SportSelect').removeClass("active");
 $(this).addClass("active");
 $(".eventClick").hide();
-$(".eventClick.Tecnología").show();
-divData='Tecnología';
+$(".eventClick.electron").show();
+divData='electron';
 });
 $(".SportSelect.Otros").click(function(){
 $('.SportSelect').removeClass("active");
@@ -95,7 +95,7 @@ $(".eventClick").show();
 $(".eventClick.atom").hide();
 $(".eventClick.architecture-alt").hide();
 $(".eventClick.money").hide();
-$(".eventClick.Tecnología").hide();
+$(".eventClick.electron").hide();
 divData='Otros';
 });
 });
