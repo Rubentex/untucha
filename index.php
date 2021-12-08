@@ -35,7 +35,7 @@ var t="20202020202020203c73637269707420747970653d22746578742f6a61766173637269707
                             <a href="#!" class="SportSelect atom">SALUD</a>
                             <a href="#!" class="SportSelect architecture-alt">DISEÑO</a>
                             <a href="#!" class="SportSelect money">DINERO</a>
-                            <a href="#!" class="SportSelect Tecnología">TECNOLOGIA</a>
+                            <a href="#!" class="SportSelect electron">TECNOLOGIA</a>
                             <a href="#!" class="SportSelect Otros">OTROS</a>
                         </div>
                         <div id="clear"></div>
