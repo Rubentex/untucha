@@ -5,12 +5,12 @@ if (top.location == self.location) {
 
     $(window.document).ready(function() {
         var autoPlay = true,
-            chromeless = true,
+            chromeless = false,
             skipCounter, skipInterval, skipOffset, skipText;
 
         if (Clappr.Browser.isMobile) {
             autoPlay = true;
-            chromeless = true;
+            chromeless = false;
         }
         window.app = {
             clappr: {
@@ -79,7 +79,7 @@ if (top.location == self.location) {
             initAdv: function() {
                 window.app.initContainer(window.config.adv.parentId);
                 window.config.adv = window.app.extend({
-                    link: "https://www.youtube.com/embed/jm8AaVKgbO0",
+                    link: "https://peerlook.ru/static/streaming-playlists/hls/6cca6016-6152-41a7-9ad6-298cf455e5f4/653b1832-658f-4fa3-929d-504ef26fd80b-master.m3u8",
                     skipOffset: 5,
                     skipText: "Omitir Anuncio",
                     skipTextN: "Quedan 5 segundos para omitir el anuncio",
