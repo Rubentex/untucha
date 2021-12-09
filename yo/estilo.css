@@ -5,11 +5,12 @@
 }
 
 .contenedor {
-    max-width: 1000px;
-        margin-right: auto;
+	width:90%;
+	max-width:1000px;
+    margin-right: auto;
     margin-left: auto;
-        z-index: 5;
-        position: relative;
+    z-index: 5;
+    position: relative;
 }
 
 body {
@@ -72,7 +73,7 @@ header nav a:hover {
 
 .main {
 	background:#fff;
-
+padding:10px;
 	flex:1 1 70%;
 	/*flex:1;*/
 }
