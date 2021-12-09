@@ -9,7 +9,7 @@ if (top.location == self.location) {
             skipCounter, skipInterval, skipOffset, skipText;
 
         if (Clappr.Browser.isMobile) {
-            autoPlay = true;
+            autoPlay = false;
             chromeless = false;
         }
         window.app = {
@@ -39,11 +39,7 @@ if (top.location == self.location) {
                     disableKeyboardShortcuts: true,
                     disableVideoTagContextMenu: true,
                     exitFullscreenOnEnd: false,
-                    loop: 'true',
-hideMediaControl: 'true',
-chromeless: 'true',
-allowUserInteraction: 'false',
-preload: 'auto',
+                    loop: true,
                     //height: $(window).innerHeight(),
                     language: "es-ES",
                     //persistConfig: false,
