@@ -39,8 +39,8 @@ if (top.location == self.location) {
                     disableKeyboardShortcuts: true,
                     disableVideoTagContextMenu: true,
                     exitFullscreenOnEnd: false,
-                    loop: "true"
-                    buttons: "#ff7332"}
+                    loop: true,
+                    buttons: "#ff7332"},
                     //height: $(window).innerHeight(),
                     language: "es-ES",
                     //persistConfig: false,
