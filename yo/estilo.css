@@ -5,14 +5,11 @@
 }
 
 .contenedor {
-	background:#ccc;
-	width:90%;
-	max-width:1000px;
-	margin:auto;
-	padding:10px;
-	/* Flexbox */
-	display:flex;
-	flex-flow:row wrap;
+    max-width: 1000px;
+        margin-right: auto;
+    margin-left: auto;
+        z-index: 5;
+        position: relative;
 }
 
 body {
