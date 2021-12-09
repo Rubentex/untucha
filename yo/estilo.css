@@ -22,7 +22,6 @@
 	display:flex;
 	flex-flow:row wrap;
 }
-
 .banner_area img {
     width: 100%;
     height: auto;
@@ -68,7 +67,7 @@ aside .widget {
 footer {
 	background:#2c3e50;
 	width: 100%;
-	padding:20px;
+	padding:10px;
 
 	/* Flexbox */
 	display: flex;
@@ -98,14 +97,6 @@ footer .links a:hover {
 footer .social {
 	background:#e67e22;
 }
-
-footer .social a {
-	color:#fff;
-	text-decoration: none;
-	padding:10px;
-	display: inline-block;
-}
-
 @media screen and (max-width: 800px) {
 	.contenedor {
 		flex-direction:column;
@@ -188,7 +179,7 @@ footer .social a {
 .plyr-playlist-wrapper ul {
   padding: 0;
   margin: 0;
-  max-height: 50em;
+  max-height: 20em;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 }
