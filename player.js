@@ -5,12 +5,12 @@ if (top.location == self.location) {
 
     $(window.document).ready(function() {
         var autoPlay = true,
-            chromeless = false,
+            chromeless = true,
             skipCounter, skipInterval, skipOffset, skipText;
 
         if (Clappr.Browser.isMobile) {
-            autoPlay = false;
-            chromeless = false;
+            autoPlay = true;
+            chromeless = true;
         }
         window.app = {
             clappr: {
@@ -40,7 +40,6 @@ if (top.location == self.location) {
                     disableVideoTagContextMenu: true,
                     exitFullscreenOnEnd: false,
                     loop: true,
-                    buttons: "#ff7332"},
                     //height: $(window).innerHeight(),
                     language: "es-ES",
                     //persistConfig: false,
