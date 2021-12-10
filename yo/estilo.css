@@ -101,13 +101,12 @@ footer .links a:hover {
 
 
 footer .social {
-  background:#e67e22;
 }
 
 footer .social a {
   color:#fff;
   text-decoration: none;
-  padding:10px;
+  padding:5px;
   display: inline-block;
 }
 
