@@ -99,9 +99,18 @@ footer .links a:hover {
 	background:#E74C3C;
 }
 
+
 footer .social {
-	background:#e67e22;
+  background:#e67e22;
 }
+
+footer .social a {
+  color:#fff;
+  text-decoration: none;
+  padding:10px;
+  display: inline-block;
+}
+
 @media screen and (max-width: 800px) {
 	.contenedor {
 		flex-direction:column;
