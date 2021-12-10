@@ -1,3 +1,9 @@
+  body {
+      background: #000;
+            font-family: 'Cuprum', sans-serif;
+
+    }
+
 * {
 	margin: 0;
 	padding: 0;
