@@ -178,7 +178,7 @@ footer .social {
 .plyr-playlist-wrapper ul {
   padding: 0;
   margin: 0;
-  max-height: 20em;
+  max-height: 25em;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 }
