@@ -13,13 +13,13 @@ var myPlaylist = [
   },
   {
     type: "youtube",
-    title: "Avicii - SOS ft. Aloe Blacc (Unofficial Video)",
-    author: "Avicii",
+    title: "Curso Gratis Microsoft Word completo",
+    author: "Yoney Gallardo",
     sources: [{ 
-      src: "RnVbU3NYrZw", 
+      src: "RCf9f9ZVP4g", 
       type: "youtube"
     }],
-    poster: "https://i.ytimg.com/vi/RnVbU3NYrZw/default.jpg"
+    poster: "https://i.ytimg.com/vi/RCf9f9ZVP4g/default.jpg"
   },
   {
     type: "youtube",
