@@ -28,7 +28,7 @@
 }
 .main {
 	background:#fff;
-padding:5px;
+padding:0px;
 	flex:1 1 70%;
 	/*flex:1;*/
 }
