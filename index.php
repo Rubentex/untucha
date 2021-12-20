@@ -39,7 +39,7 @@ var t="20202020202020203c73637269707420747970653d22746578742f6a61766173637269707
                             <a href="#!" class="SportSelect Otros">OTROS</a>
                         </div>
                         <div id="social">
-                                <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px; left:50%; transform:translateX(-50%);">
+                                <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:10px; left:50%; transform:translateX(-50%);">
             <a class="a2a_button_facebook"></a>
             <a class="a2a_button_whatsapp"></a>
             <a class="a2a_button_telegram"></a>
@@ -68,3 +68,5 @@ ChatbroLoader({encodedChatId: '18K4C'});
 </script>   
         </body>
 </html>
+
+
