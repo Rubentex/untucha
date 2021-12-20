@@ -67,6 +67,10 @@
             margin-left: 10px;
             margin-bottom: 25px;
         }
+                   .social {
+            float: left;
+        }
+   
 
     #date {
             float: right;

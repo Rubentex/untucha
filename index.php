@@ -38,15 +38,8 @@ var t="20202020202020203c73637269707420747970653d22746578742f6a61766173637269707
                             <a href="#!" class="SportSelect electron">TECNOLOGIA</a>
                             <a href="#!" class="SportSelect Otros">OTROS</a>
                         </div>
-                        <div id="clear"></div>
-                        <div id="eventlist">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <script src="jo.js"></script>
-        </body>
-        <div class="a2a_kit a2a_kit_size_30 a2a_floating_style a2a_default_style" style="bottom:0px; left:0px; transform:translateX(-50%);">
+                        <div id="social">
+                                <div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_default_style" style="bottom:0px; left:50%; transform:translateX(-50%);">
             <a class="a2a_button_facebook"></a>
             <a class="a2a_button_whatsapp"></a>
             <a class="a2a_button_telegram"></a>
@@ -58,11 +51,20 @@ var t="20202020202020203c73637269707420747970653d22746578742f6a61766173637269707
     @media screen and (max-width: 980px) {
     .a2a_floating_style.a2a_vertical_style { display: none; }
     }
-    </style>
-<script id="chatBroEmbedCode">
+    </style>    
+                        </div>
+                        <div id="clear"></div>
+                        <div id="eventlist">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script src="jo.js"></script>
+         <script id="chatBroEmbedCode">
 /* Chatbro Widget Embed Code Start */
 function ChatbroLoader(chats,async){async=!1!==async;var params={embedChatsParameters:chats instanceof Array?chats:[chats],lang:navigator.language||navigator.userLanguage,needLoadCode:'undefined'==typeof Chatbro,embedParamsVersion:localStorage.embedParamsVersion,chatbroScriptVersion:localStorage.chatbroScriptVersion},xhr=new XMLHttpRequest;xhr.withCredentials=!0,xhr.onload=function(){eval(xhr.responseText)},xhr.onerror=function(){console.error('Chatbro loading error')},xhr.open('GET','https://www.chatbro.com/embed.js?'+btoa(unescape(encodeURIComponent(JSON.stringify(params)))),async),xhr.send()}
 /* Chatbro Widget Embed Code End */
 ChatbroLoader({encodedChatId: '18K4C'});
-</script>
+</script>   
+        </body>
 </html>
