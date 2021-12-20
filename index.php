@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>CURSOS 24|Gratis Online</title>
+        <title>CURSOS 24 » Gratis Online</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta property="og:image" content="https://bit.ly/32bBINF" />
