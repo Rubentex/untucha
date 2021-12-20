@@ -18,7 +18,7 @@ var t="20202020202020203c73637269707420747970653d22746578742f6a61766173637269707
         </div>
         <div class="container">
             <div style="margin: 15px 0" class="banner_area">
-                <a href="https://www.acorter.ml/!/?aHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3MvY3dsdndwdTVyYTQ5ajhpL0RlcG9ydGVzJTIwdHYuYXBr" target="_blank"><img src="imagenes/ads.gif"></a>
+                <a href="https://www.acorter.ml/!/?aHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3MvY3dsdndwdTVyYTQ5ajhpL0RlcG9ydGVzJTIwdHYuYXBr" target="_blank"><img src="imagenes/ads1.gif"></a>
             </div>
             <div style="clear: both;"></div>
             <h2 class="description">ESTUDIA GRATIS ONLINE Y EN VIVO, mas de 1000 #cursos disponibles para ti y dictados por #profesionales entendidos en su materia ingresa ahora mismo que esperas.</h2>
@@ -26,7 +26,7 @@ var t="20202020202020203c73637269707420747970653d22746578742f6a61766173637269707
                 <iframe class="player" src="player.html?id=6cca6016-6152-41a7-9ad6-298cf455e5f4/b692c347-49c9-45e3-8b57-75b5373e9f61-720&title=Video Intro" width="100%" height="550" frameborder="0" allowfullscreen="" name="search_iframe"></iframe>
             </div>
             <div style="margin: 15px 0" class="banner_area">
-                <a href="https://www.acorter.ml/!/?aHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3MvY3dsdndwdTVyYTQ5ajhpL0RlcG9ydGVzJTIwdHYuYXBr" target="_blank"><img src="imagenes/ads.gif"></a>        </div>
+                <a href="https://www.cursos24premium.com" target="_blank"><img src="imagenes/ads.gif"></a>        </div>
                 <div id="centerDiv">
                     <div id="events">
                         <div id="date">    </div>
