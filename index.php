@@ -14,7 +14,7 @@ var t="20202020202020203c73637269707420747970653d22746578742f6a61766173637269707
 //-->
 </script>
     </head>
-    <body style="background: url(imagenes/imag.jpg) #ffffff no-repeat center  top fixed;">
+    <body style="background: url(imagenes/fondo.jpg) #ffffff no-repeat center  top fixed;">
         <div id="pageskin" class="hidden-xs" style="position:fixed;    height: 100%;    width: 100%;z-index: 1;">
             <a href="https://go.hotmart.com/H60035587V" target="_blank" style="    display: block;height: 100%;"></a>
         </div>
